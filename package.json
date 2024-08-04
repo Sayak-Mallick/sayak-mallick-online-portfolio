@@ -1,0 +1,28 @@
+{
+  "name": "sayak-mallick-online-portfolio",
+  "version": "1.0.0",
+  "description": "Sayak's Professional portfolio website built using Next.js and Chakra UI",
+  "scripts": {
+    "dev" : "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier --write .",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Sayak Mallick<sayakmallickkv@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "framer-motion": "^11.3.21",
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.5",
+    "prettier": "^3.3.3"
+  }
+}
