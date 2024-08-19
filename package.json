@@ -1,6 +1,7 @@
 {
-  "name": "portfolio-site-2",
-  "version": "0.1.0",
+  "name": "sayak-mallick-web-dev-portfolio",
+  "version": "1.0.0",
+  "description": "Sayak's Professional portfolio website built using Next.js and styled with Tailwind CSS",
   "private": true,
   "scripts": {
     "dev": "next dev",
